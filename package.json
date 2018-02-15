@@ -25,6 +25,9 @@
   "keywords": [],
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "logops": "^2.1.0",
+    "request": "^2.83.0",
+    "requests": "^0.2.2"
   }
 }
