@@ -1,6 +1,4 @@
-var config = {};
-
-config ={
+module.exports = {
     server: {
         host : '0.0.0.0',
         listenPort : '4330'
@@ -15,5 +13,3 @@ config ={
         sapCode : '50035212'
     }
 };
-
-module.exports = config;
